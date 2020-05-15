@@ -1,5 +1,5 @@
 {
-    "name": "lunar lander 2",
+    "name": "lunar lander ",
     "dependencies": {
         "device": "*",
         "animation": "*"
